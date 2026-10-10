@@ -1,0 +1,22 @@
+{
+  "name": "reusable-components",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A responsive React + Vite demo featuring five reusable components: `Header`, `Footer`, `Card`, `Form`, and `Button`.",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {}
+}
